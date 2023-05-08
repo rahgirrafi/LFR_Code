@@ -1,4 +1,6 @@
 const int ir1=2,ir2=3,ir3=4,ir4=5;
+
+// Motor A
 int enA = 11;
 int in1A = 9;
 int in2A = 8;
